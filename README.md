@@ -1,2 +1,2 @@
 # serverless-lambda-test1
-Automating lambda function deployment through serverless framework
+Automate lambda function deployment through serverless framework
