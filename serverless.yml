@@ -1,6 +1,6 @@
 
 service: serverless-lambda-test1
-frameworkVersion: '3'
+# frameworkVersion: '3'
 
 provider:
   name: aws
